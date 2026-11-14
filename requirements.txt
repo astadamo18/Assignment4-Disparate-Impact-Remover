@@ -1,0 +1,7 @@
+numpy>=1.26
+pandas>=2.0
+scikit-learn>=1.3
+aif360[DisparateImpactRemover]>=0.6.1
+jupyter
+nbconvert
+ipykernel
